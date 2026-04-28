@@ -31,8 +31,9 @@ The message from leadership is crystal clear: the funds must move. A single extr
 | Parameter | Value |
 |-----------|-------|
 | Network | Sepolia Testnet |
-| Target | `TBD` |
+| Target | `0xed5415679D46415f6f9a82677F8F4E9ed9D1302b` |
 | Oracle | `0x1b44F3514812d835EB1BDB0acB33d3fA3351Ee43` (BTC/USD) |
+| Website | `https://fair-casino.vercel.app` |
 
 ---
 
